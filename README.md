@@ -5,7 +5,6 @@
 🧠 Currently diving into:
 - 🗣️ **Natural Language Processing (NLP)**
 - 👁️ **Computer Vision**
-- 🕹️ **Reinforcement Learning**
 
 📫 Let's connect!  
 Reach me at: **kernahnaf4@gmail.com**
